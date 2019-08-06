@@ -1,0 +1,21 @@
+rootProject.ext.compileSdkVersion = 29
+rootProject.ext.minSdkVersion = 21
+rootProject.ext.targetSdkVersion = 29
+rootProject.ext.sourceCompatibility = JavaVersion.VERSION_1_8
+
+rootProject.ext.RetrofitVersion = "2.6.1"
+
+rootProject.ext.deps = [
+        // android
+        androidAppCompat        : "androidx.appcompat:appcompat:1.0.2",
+        androidKTX              : "androidx.core:core-ktx:1.0.2",
+        androidRecyclerView     : "androidx.recyclerview:recyclerview:1.0.0",
+
+        utils                   : "com.xueqiu.toolbox:toolbox:0.1.0",
+
+        retrofit                : "com.squareup.retrofit2:retrofit:$RetrofitVersion",
+        retrofitGson            : "com.squareup.retrofit2:converter-gson:$RetrofitVersion",
+        retrofitRx              : "com.squareup.retrofit2:adapter-rxjava2:$RetrofitVersion",
+        gson                    : "com.google.code.gson:gson:2.8.5",
+]
+

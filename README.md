@@ -11,7 +11,7 @@ repositories {
 }
 dependencies {
     // add dependency, please replace x.y.z to the latest version
-    implementation "com.xueqiu.network:core:x.y.z"
+    implementation "com.xueqiu.net:core:x.y.z"
 }
 ```
 

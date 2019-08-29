@@ -6,9 +6,6 @@ Library for easier to build network requests with retrofit.
 ## Installation
 
 ```groovy
-repositories {
-    maven { url "https://xueqiumobile.bintray.com/maven" }
-}
 dependencies {
     // add dependency, please replace x.y.z to the latest version
     implementation "com.xueqiu.net:core:x.y.z"

@@ -1,4 +1,4 @@
-Snowball Android Network <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/manager/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/manager/0.1.0/link)
+Snowball Android Network <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/core/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/core/0.1.0/link)
 ============
 
 Library for easier to build network requests with retrofit.
